@@ -30,10 +30,9 @@ def update_visible_string(current_string, answer_string, letter):
     return updated_string
 
 def sortString(s):
-    alpha_sort = sorted(s)
     new_s = ""
 
-    for char in alpha_sort:
+    for char in sorted(s):
         new_s += char
 
     return new_s
