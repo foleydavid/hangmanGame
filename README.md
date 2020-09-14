@@ -1,2 +1,2 @@
 # hangmanGame
-Uses a common phrase from a file with a list of common phrases
+Finds a movie name from a text list and plays a game of hangman with the user
